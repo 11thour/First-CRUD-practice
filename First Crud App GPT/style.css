@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+input[type="text"]{
+    width: 100px;
+    height: 20px;
+    border: none;
+}
+
